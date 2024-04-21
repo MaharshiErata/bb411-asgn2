@@ -25,8 +25,8 @@ BB411 is a course offered at IITB, focusing on topics related to bioinformatics,
 The repository is organized as follows:
 - `gens/`: Contains gene sequences in text format.
 - `BB.ipynb`: Colab notebook with results, similar to script.py.
+- `README.md`: This README file providing an overview of the repository.
 - `genes.txt`: Gene sequence I tested for localization sequence.
 - `report.pdf`: Brief report on the assignment.
 - `result.xlsx`: Results for presence of 'SKL' sequence in genes in the above folder.
-- `README.md`: This README file providing an overview of the repository.
 - `script.py/`: Python script for checking the presence of a particular localization sequence.
