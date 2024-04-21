@@ -16,8 +16,6 @@ BB411 is a course offered at IITB, focusing on topics related to bioinformatics,
   ```
   git clone https://github.com/MaharshiErata/bb411-asgn2.git
   ```
-  Replace `your-username` with your GitHub username.
-
 - **Accessing Data**: Once cloned, you can access the gene-related data and other assignment files stored in this repository.
 
 ## Repository Structure
